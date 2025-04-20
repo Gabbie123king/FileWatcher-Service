@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FileWatcherService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+46dbef5d96b5f61fe824eb7198f15d1e3849e4d1")]
 [assembly: System.Reflection.AssemblyProductAttribute("FileWatcherService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FileWatcherService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
